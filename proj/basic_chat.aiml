@@ -1,0 +1,17 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <random>
+                <li>ok</li>
+                <li>hmm</li>
+                <li>ok, then</li>
+            </random>
+        </template>
+    </category>
+
+
+
+</aiml>
